@@ -1,6 +1,9 @@
 # OXSwipe
 Providing swipe feature for android applications.
 
+### Log 
+  v1.0.1 -> Api 14 support came.
+
 ##Installation
 
 To use the library, first include it your project using Gradle
@@ -14,7 +17,7 @@ To use the library, first include it your project using Gradle
 and:
 
         dependencies {
-                compile 'com.github.10uroi:OXSwipe:1.0.0'
+                compile 'com.github.10uroi:OXSwipe:1.0.1'
         }
         
 ##How to use
